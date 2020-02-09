@@ -1,0 +1,4 @@
+#Sun Feb 09 21:19:47 BDT 2020
+base.0=F\:\\Nayan\\Android_Project\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
