@@ -28,11 +28,11 @@ public class MainActivity extends Activity {
         setContentView(R.layout.activity_main);
 
 
-        mUsernameET = (EditText) findViewById(R.id.userNameET);
-        mPasswordET = (EditText) findViewById(R.id.passwordET);
-        mLoginBtn = (Button) findViewById(R.id.loginBtn);
-        mCreateAccBtn = (Button) findViewById(R.id.createAccBtn);
-        mForgetPassTv = (TextView) findViewById(R.id.forgetPasswordTV);
+        mUsernameET = findViewById(R.id.userNameET);
+        mPasswordET = findViewById(R.id.passwordET);
+        mLoginBtn = findViewById(R.id.loginBtn);
+        mCreateAccBtn = findViewById(R.id.createAccBtn);
+        mForgetPassTv = findViewById(R.id.forgetPasswordTV);
 
 
 
